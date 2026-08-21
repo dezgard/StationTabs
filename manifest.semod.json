@@ -1,0 +1,35 @@
+{
+  "author": "Dezgard",
+  "compatibility": {
+    "game_versions": [
+      "0.4.62",
+      "0.4.63"
+    ],
+    "mode": "game-version"
+  },
+  "conflicts": [],
+  "dependencies": [],
+  "description": "Category tabs for cargo in the player-owned station Storage view.",
+  "entrypoint": "star_empire_station_storage_tabs:register",
+  "files": [
+    "mod/star_empire_station_storage_tabs/README.md",
+    "mod/star_empire_station_storage_tabs/__init__.py",
+    "mod/star_empire_station_storage_tabs/preview.png"
+  ],
+  "format": "star-empire-mod",
+  "load_after": [],
+  "loader_api": 2,
+  "mod_id": "star_empire_station_storage_tabs",
+  "name": "Star Empire Station Storage Tabs",
+  "permissions": [
+    "ui.input",
+    "ui.render"
+  ],
+  "schema": 1,
+  "update": {
+    "asset": "StarEmpireStationStorageTabs-*.semod",
+    "repository": "dezgard/StationTabs",
+    "type": "github-release"
+  },
+  "version": "0.1.3"
+}
