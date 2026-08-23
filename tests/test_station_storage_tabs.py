@@ -97,7 +97,7 @@ class StationStorageTabsTests(unittest.TestCase):
         api = SimpleNamespace(
             loader_api_version=2,
             logger=SimpleNamespace(info=Mock()),
-            version="0.1.3",
+            version="0.1",
             on=lambda event, callback, priority=0: callbacks.setdefault(
                 event, callback),
         )
