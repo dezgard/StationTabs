@@ -3,7 +3,10 @@
   "compatibility": {
     "game_versions": [
       "0.4.62",
-      "0.4.63"
+      "0.4.63",
+      "0.4.91",
+      "0.5.14",
+      "0.5.25"
     ],
     "mode": "game-version"
   },
@@ -31,5 +34,5 @@
     "repository": "dezgard/StationTabs",
     "type": "github-release"
   },
-  "version": "0.1"
+  "version": "0.3"
 }
