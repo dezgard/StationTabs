@@ -28,4 +28,4 @@ The category controls only appear when the game's original player-station
 Storage view is already open. The mod cannot open inaccessible station windows,
 bypass docking permissions, alter cargo, or change station access rules.
 
-Tested with Star Empire 0.4.62 and 0.4.63 using Mod Loader API 1.
+Built for Star Empire 0.4.62, 0.4.63, 0.4.91, 0.5.14 and 0.5.25 using Mod Loader API 2.

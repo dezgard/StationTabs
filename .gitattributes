@@ -1,0 +1,3 @@
+manifest.semod.json text eol=lf
+package_source/*.py text eol=lf
+package_source/*.md text eol=lf
